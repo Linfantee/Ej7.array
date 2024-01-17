@@ -27,7 +27,6 @@
             {
                 Console.WriteLine(i);
             }
-            listaNumerosEnteros1[7] = 60;
             Console.WriteLine("-------------");
             Console.WriteLine("Ordenar de forma descendente:");
             Array.Reverse(listaNumerosEnteros1);
